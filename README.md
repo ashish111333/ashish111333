@@ -26,3 +26,4 @@
 - explore kubernetes in depth.
 - write tech articles.
 - engage with online communities.
+- learn rust.
