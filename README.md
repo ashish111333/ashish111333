@@ -15,11 +15,8 @@
         "secret":"ORYH KHDOV HYHUBWKLQJ"
         "hint":"all it takes is three steps,desire==>planning==>execution"
 
-        
     }
-
    }
-    
 }
 ```
 
