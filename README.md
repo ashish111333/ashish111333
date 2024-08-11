@@ -21,7 +21,7 @@
 ```
 
 ### Goals for the remaining 2024 :crystal_ball:- 
-- Contribute to opensource,Cncf projects.
+- Contribute to opensource,CNCF projects.
 - learn and write about Networking.
 - explore kubernetes in depth.
 - write tech articles.
