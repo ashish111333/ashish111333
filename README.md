@@ -1,7 +1,7 @@
 
 # Greetings, Traveller :wave:
 
-## I am a full stack dev,interested in distributed systems,AI potential and other things.
+## I am  a full stack developer,interested in distributed systems,AI and blockchain.
 
 
 ```json
