@@ -2,7 +2,7 @@
 # Greetings, Traveller :wave:
 
 ## I am  a full stack developer,lifelong learner,independent researcher. interested in distributed systems and Cybersecurity.
-![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodd,postgres)
+![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 ```json
 
 {
