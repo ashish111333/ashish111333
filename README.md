@@ -7,6 +7,10 @@
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 
 
+
+![alt text](./gifs/7zGb.gif)
+
+
 ```json
 
 {
