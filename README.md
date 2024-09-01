@@ -1,9 +1,8 @@
 
 # Greetings, Traveller :wave:
 
-## I am  a full stack developer,lifelong learner. interested in distributed systems and Cybersecurity.
-
-[![alt text](cc841aed3a79c62876bbf13a74602684.jpg)
+## I am  a full stack developer,lifelong learner,independent researcher. interested in distributed systems and Cybersecurity.
+[![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aaws,bash,linux)
 ```json
 
 {
