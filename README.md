@@ -9,6 +9,7 @@
 
 
 ![alt text](./gifs/7zGb.gif)
+![img info](./images/retrowave-neon-digital-art-retro-style-wallpaper-c8e6ad4810e01cc8708cb15e5842a49a.jpg)
 
 
 ```json
