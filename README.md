@@ -3,10 +3,7 @@
 
 ## I am  a full stack developer,interested in distributed systems and Cybersecurity.
 
-<img src="https://tenor.com/view/sacred-geometry-geometry-gif-10438273">
-
-![Alt Text](https://tenor.com/view/sacred-geometry-geometry-gif-10438273)
-
+            ![img info](./images/cc841aed3a79c62876bbf13a74602684.jpg)
 ```json
 
 {
