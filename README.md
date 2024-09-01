@@ -7,13 +7,10 @@
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 
 
-
-![alt text](./gifs/7zGb.gif)
 ![img info](./images/retrowave-neon-digital-art-retro-style-wallpaper-c8e6ad4810e01cc8708cb15e5842a49a.jpg)
 
 
 ```json
-
 {
    "About_Me":{
     "name":"ashish",
@@ -22,12 +19,10 @@
     "Secret_for_You_Visitor":{
         "secret":"ORYH KHDOV HYHUBWKLQJ",
         "hint":"all it takes is three steps,desire==>planning==>execution"
-
     }
    }
 }
 ```
-
 ### Goals for the remaining 2024 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
 - learn and write about Networking.
