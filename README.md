@@ -1,9 +1,9 @@
 
 # Greetings, Traveller :wave:
 
-## I am  a full stack developer,interested in distributed systems and Cybersecurity.
+## I am  a full stack developer,lifelong learner. interested in distributed systems and Cybersecurity.
 
-#            ![img info](./images/cc841aed3a79c62876bbf13a74602684.jpg)
+[![alt text](cc841aed3a79c62876bbf13a74602684.jpg)
 ```json
 
 {
