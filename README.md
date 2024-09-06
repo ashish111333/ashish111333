@@ -3,7 +3,8 @@
 
 ## I am ashish a full stack developer,lifelong learner,student,independent researcher. interested in distributed systems and Cybersecurity.
 
-###Skills:
+## Skills:
+
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 
 
