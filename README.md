@@ -3,11 +3,8 @@
 
 ## I am ashish a full stack developer,lifelong learner,student,independent researcher. interested in distributed systems and Cybersecurity.
 
-
+###Skills:
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
-
-
-![img info](./images/retrowave-neon-digital-art-retro-style-wallpaper-c8e6ad4810e01cc8708cb15e5842a49a.jpg)
 
 
 ```json
@@ -22,6 +19,9 @@
     }
    }
 }
+
+
+
 ```
 ### Goals for the remaining 2024 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
