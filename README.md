@@ -1,28 +1,18 @@
 
 # Greetings, Traveller :wave:
 
-## I am ashish a full stack developer,lifelong learner,student,independent researcher. interested in distributed systems and Cybersecurity.
+# I am ashish a full stack developer,lifelong learner,student,independent researcher. interested in distributed systems and Cybersecurity.
 
-## Skills:
+
+
+# Skills:
 
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 
 
-```json
-{
-   "About_Me":{
-    "name":"ashish",
-    "hobbies":"I love to read about tech,sometimes I read obscure physics books with wild theories.",
-    "Favorite_Games":"Dishonored 1 best game ever",
-    "Secret_for_You_Visitor":{
-        "secret":"ORYH KHDOV HYHUBWKLQJ",
-        "hint":"all it takes is three steps,desire==>planning==>execution"
-    }
-   }
-}
 
-
-
+# connect:
+ashishkumar0265aaa@gmail.com
 ```
 ### Goals for the remaining 2024 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
