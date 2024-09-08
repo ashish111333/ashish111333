@@ -1,11 +1,16 @@
 
-# Greetings, Traveller :wave:
-
-## I am ashish a full stack developer,lifelong learner,student,independent researcher. interested in distributed systems and Cybersecurity.
+# Greetings, visitor :trollface:
 
 
+### about me:
+- I am ashish a full stack developer,lifelong learner,student.
+- I am a quick learner,I learn things quickly.
+- I like to do research on various topics on my own.
+- I am interested in distributed systems and cybersecurity.
 
-## Skills:
+
+
+### Skills:
 
 ![My skills](https://skillicons.dev/icons?i=js,python,c,cpp,go,kubernetes,docker,aws,bash,linux,mongodb,postgres)
 
