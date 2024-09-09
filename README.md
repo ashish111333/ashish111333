@@ -19,6 +19,7 @@
 
 ## connect:
 ashishkumar0265aaa@gmail.com
+![img info](./images/New%20Document%20-%20Selection.png)
 
 ### Goals for the remaining 2024 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
