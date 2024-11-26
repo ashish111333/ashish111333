@@ -1,4 +1,3 @@
-![img info](/images/New%20Document%20-%20Selection.png)
 
 ### about me:
 - I am ashish a full stack developer,lifelong learner,student.
