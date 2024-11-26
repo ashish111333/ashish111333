@@ -1,5 +1,5 @@
 
-### about me:
+### About me:
 - I am ashish a full stack developer,lifelong learner,student.
 - I am a quick learner,I learn things quickly.
 - I like to do research on various topics on my own.
