@@ -26,7 +26,7 @@
 ashishkumar0265aaa@gmail.com
 
 
-### Goals for the remaining 2024 :crystal_ball:- 
+### Goals for 2025 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
 - learn and write about Networking.
 - explore kubernetes in depth.
