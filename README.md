@@ -26,8 +26,8 @@
 ashishkumar0265aaa@gmail.com
 
 ## recent works:
-![](https://github.com/meshery/meshery/pull/13172#issuecomment-2637729737)
-![](https://github.com/cyclops-ui/cyclops/pull/475)
+[](https://github.com/meshery/meshery/pull/13172#issuecomment-2637729737)
+[](https://github.com/cyclops-ui/cyclops/pull/475)
 
 ### Goals for 2025 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
