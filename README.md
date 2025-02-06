@@ -26,7 +26,7 @@
 ashishkumar0265aaa@gmail.com
 
 ## recent works:
-- [org commadn support meshery](https://github.com/meshery/meshery/pull/13172#issuecomment-2637729737)
+- [org command support meshery](https://github.com/meshery/meshery/pull/13172#issuecomment-2637729737)
 - [cyclops update command](https://github.com/cyclops-ui/cyclops/pull/475)
 
 ### Goals for 2025 :crystal_ball:- 
