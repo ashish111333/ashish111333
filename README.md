@@ -1,6 +1,6 @@
 
 ### About me:
-- I am ashish a full stack developer,lifelong learner,student.
+- I am ashish a backedn  dev,lifelong learner,student.
 - I am a quick learner,I learn things quickly.
 - I like to do research on various topics on my own.
 - I am interested in distributed systems and cybersecurity.
@@ -25,14 +25,8 @@
 ## connect:
 ashishkumar0265aaa@gmail.com
 
-## recent works:
-- [org command support meshery](https://github.com/meshery/meshery/pull/13172#issuecomment-2637729737)
-- [cyclops update command](https://github.com/cyclops-ui/cyclops/pull/475)
-
 ### Goals for 2025 :crystal_ball:- 
 - Contribute to opensource,CNCF projects.
 - learn and write about Networking.
-- explore kubernetes in depth.
+- getting involved with k8s communities.
 - write tech articles.
-- engage with online communities.
-- learn rust.
