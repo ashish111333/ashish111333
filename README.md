@@ -21,11 +21,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-## connect:
+## contact:
 ashishkumar0265aaa@gmail.com
 
-### Goals for 2025 :crystal_ball:- 
-- Contribute to opensource,CNCF projects.
-- learn and write about Networking.
-- getting involved with k8s communities.
-- write tech articles.
+
+## Open for :-
+- backend roles (Remote), cloud native roles (related to k8s infra).
+
+
