@@ -3,7 +3,7 @@
 - I am ashish a backend  dev with a focus on distributed systems.
 - I am interested in distributed systems and cybersecurity.
 - I like to do research on various topics on my own.
-- I am a a polygot...
+- I am  a polygot...
 
 
 
