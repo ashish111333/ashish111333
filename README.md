@@ -5,11 +5,12 @@
 - I am  a polygot... 
 
 ## Work in progress/finished:-
-    ### Pulumi:-
-    - [PR](https://github.com/pulumi/pulumi/pull/20534)
+
+### Pulumi:-
+- [https://github.com/pulumi/pulumi/pull/20534](https://github.com/pulumi/pulumi/pull/20534)
 
 ## Open for Roles :-
-- backend (Go, Rust) , Oss Roles
+- backend (Go, Rust) , OSS Roles
  
 ## contact:
 ashishkumar0265aaa@gmail.com
