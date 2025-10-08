@@ -10,7 +10,9 @@
 - [https://github.com/pulumi/pulumi/pull/20534](https://github.com/pulumi/pulumi/pull/20534)
 
 ## Open for Roles :-
-- backend (Go, Rust...python, whatever.) , OSS Roles
+- backend (Go, Rust...python, whatever.)
+- OSS roles
+
  
 ## contact:
 ashishkumar0265aaa@gmail.com
