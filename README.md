@@ -7,7 +7,7 @@
 ## Work  is done/ongoing:-
 
 ### Pulumi:-
-- [https://github.com/pulumi/pulumi/pull/20534](https://github.com/pulumi/pulumi/pull/20534)
+- [https://github.com/pulumi/pulumi/pull/20658](https://github.com/pulumi/pulumi/pull/20658)
 
 ## Open for Roles :-
 - backend (Go, Rust...python, whatever.)
