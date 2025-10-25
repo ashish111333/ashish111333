@@ -8,6 +8,7 @@
 
 ### Pulumi:-
 - [https://github.com/pulumi/pulumi/pull/20658](https://github.com/pulumi/pulumi/pull/20658)
+- [https://github.com/pulumi/pulumi/pull/20815](https://github.com/pulumi/pulumi/pull/20815)
 
 ## Open for Roles :-
 - backend (Go, Rust...python, whatever.)
