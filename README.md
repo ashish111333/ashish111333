@@ -24,5 +24,5 @@ ashishkumar0265aaa@gmail.com
 
 
 
-![pf](https://komarev.com/ghpvc/?username=ashish111333&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ashish111333&color=blueviolet&style=for-the-badge)
 
