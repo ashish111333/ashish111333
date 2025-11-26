@@ -11,8 +11,13 @@
 - [https://github.com/pulumi/pulumi/pull/20815](https://github.com/pulumi/pulumi/pull/20815)
 - [https://github.com/pulumi/pulumi/pull/20816](https://github.com/pulumi/pulumi/pull/20816)
 
+### Ds-Algos:
+- [caches](https://github.com/ashish111333/Ds-Algos/blob/main/src/python/cache/cache.py)
+
+
+
 ## Open for Roles :-
-- backend (Go, Rust...python, whatever.)
+- backend (Go,python,js)
 - OSS roles
 
  
