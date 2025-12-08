@@ -1,7 +1,6 @@
 
 ### About me:
 - backend  dev with a focus on distributed systems.
-- I love to solve complex Problems. 
 - I am  a polygot... 
 - I also make programming videos , check my channel [BitBytes](https://www.youtube.com/channel/UCpUNXlNCizQbnVCkdCvYYcw)
 
