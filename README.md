@@ -24,7 +24,9 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -48,9 +50,9 @@
 
 I'm actively looking for:
 
-- 🎯 **Backend Engineering** roles (Go, Python, JavaScript)
-- 🌟 **Open Source** positions
-- 🔥 **Distributed Systems** projects
+- **Backend Engineering** roles (Go, Python, JavaScript)
+- **Open Source** positions
+- **Distributed Systems** projects
 
 ---
 
