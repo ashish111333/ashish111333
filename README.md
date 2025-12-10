@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Ashish Kumar
 
-### Backend Developer | Distributed Systems Enthusiast | Open Source Contributor
+### Backend Developer | Distributed Systems | OSS Contributor
 
 [![YouTube](https://img.shields.io/badge/YouTube-BitBytes-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpUNXlNCizQbnVCkdCvYYcw)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkumar0265aaa@gmail.com)
