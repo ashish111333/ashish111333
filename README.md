@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🔧 Backend developer with a focus on **distributed systems**
-- 🌐 Polyglot programmer - I work with multiple languages and technologies
-- 🎥 Content creator on [**BitBytes**](https://www.youtube.com/channel/UCpUNXlNCizQbnVCkdCvYYcw)
+- Backend developer with a focus on **distributed systems**
+- Polyglot programmer - I work with multiple languages and technologies
+- Content creator on [**BitBytes**](https://www.youtube.com/channel/UCpUNXlNCizQbnVCkdCvYYcw)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,14 +39,14 @@
 - **[PR #20816](https://github.com/pulumi/pulumi/pull/20816)** 
 ---
 
-## 🎬 Content Creation
+## Content Creation
 
-### 📹 Recent Videos
+### Recent Videos
 
 - **[Watch on YouTube](https://youtu.be/VLdtHsCX2yA)** - LRU explained
 ---
 
-## 💼 Open for Opportunities
+## Open for Opportunities
 
 I'm actively looking for:
 
@@ -56,7 +56,7 @@ I'm actively looking for:
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
 
@@ -65,3 +65,5 @@ I'm actively looking for:
 **Let's build something amazing together!** 🚀
 
 </div>
+
+
