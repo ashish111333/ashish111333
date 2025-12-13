@@ -30,9 +30,9 @@
 
 ---
 
-## 🚀 Open Source Contributions
+## Open Source Contributions
 
-### 📦 Pulumi
+### Pulumi
 
 - **[PR #20658](https://github.com/pulumi/pulumi/pull/20658)** 
 - **[PR #20815](https://github.com/pulumi/pulumi/pull/20815)** 
