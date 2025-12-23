@@ -62,7 +62,7 @@ I'm actively looking for:
 
 [![Email](https://img.shields.io/badge/📧_Email-ashishkumar0265aaa@gmail.com-blue?style=for-the-badge)](mailto:ashishkumar0265aaa@gmail.com)
 
-**Let's build something amazing together!** 🚀
+**Let's build something amazing together!** 
 
 </div>
 
