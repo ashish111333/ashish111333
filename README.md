@@ -14,7 +14,7 @@
 
 ##  About Me
 
-- Backend developer with a focus on **distributed systems**
+- Backend engineer with a focus on **distributed systems**
 - Polyglot programmer - I work with multiple languages and technologies
 
 
