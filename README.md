@@ -14,7 +14,7 @@
 
 ##  About Me
 
-- backend engineer with a focus on **distributed systems**
+- cloud native backend engineer with a focus on **distributed systems**
 - Polyglot programmer - I work with multiple languages and technologies
 
 
