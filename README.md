@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Ashish Kumar
 
-###  backend engineer | Distributed Systems | OSS Dev
+###  cloud native engineer | Distributed Systems | OSS Dev
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashish111333&color=blueviolet&style=for-the-badge)
@@ -14,7 +14,7 @@
 
 ##  About Me
 
-- cloud native backend engineer with a focus on **distributed systems**
+- cloud native software engineer with a focus on **distributed systems**
 - Polyglot programmer - I work with multiple languages and technologies
 
 
