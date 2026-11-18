@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ashish Kumar
-
 ###  cloud native engineer | Distributed Systems | OSS Dev
 
 
@@ -21,7 +19,7 @@
 ## Contact
 
 ```
-ashishkumar0265aaa@gmail.com
+sarahsm2234@gmail.com
 ```
 
 
